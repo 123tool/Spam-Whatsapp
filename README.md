@@ -1,4 +1,4 @@
-# 🛡️ WA SPAM BOMBER
+# 🛡️ WHATSAPP SPAM
 **Advanced WhatsApp Automation**
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://python.org)
