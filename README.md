@@ -1,5 +1,5 @@
-# 🛡️ WA-Sentinel Pro
-**Advanced WhatsApp Web Automation Framework**
+# 🛡️ WA SPAM BOMBER
+**Advanced WhatsApp Automation**
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
